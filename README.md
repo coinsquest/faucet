@@ -12,10 +12,9 @@ What do I bring to the money that I have supported?
 3. Developed site.
 
 
-My project
+My project Crowfunding
 
 https://gogetfunding.com/cryptogame/
 
 https://crowdfunding.airtripp.com/project/7969
 
-https://github.com/coinsquest/faucet/
